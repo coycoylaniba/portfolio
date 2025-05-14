@@ -1,1 +1,16 @@
 @import "tailwindcss";
+@import "tw-animate-css";
+
+@theme {
+  --color-primary-light: #fbf0c9;
+  --color-primary-dark: #282828;
+  --font-mono: "Jetbrains Mono", monospace;
+}
+
+body {
+  @apply font-mono text-sm;
+}
+
+span {
+  @apply inline-block;
+}
