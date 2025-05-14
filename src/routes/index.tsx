@@ -30,7 +30,7 @@ function RouteComponent() {
     <div className="h-screen w-screen overflow-hidden">
       <main className="flex max-h-screen snap-y snap-mandatory flex-col overflow-y-auto">
         <Section className="items-center justify-center">
-          <span className="lg:max-w-1/2 text-center">Hi! I'm Coycoy.</span>
+          <span className="text-center lg:max-w-1/2">Hi! I'm Coycoy.</span>
         </Section>
 
         <Section className="" theme="dark">
@@ -38,10 +38,10 @@ function RouteComponent() {
 
           <div className="flex flex-1 flex-col items-center justify-center gap-4">
             <span className="text-center lg:max-w-1/2">
-              I'm a full stack developer committed in writing efficient and
-              easy-to-maintain code. I primarily use Next.js for web, Electron +
-              React for desktop applications, and React Native for mobile
-              applications.
+              I'm a full stack developer who is passionate in writing efficient,
+              scalable and maintainable web, desktop and mobile applications. I
+              primarily use Next.js for web, Electron + React for desktop
+              applications, and React Native for mobile applications.
             </span>
 
             {/* <span className="lg:max-w-1/2 text-center">---</span>
@@ -156,49 +156,49 @@ function RouteComponent() {
               <Work
                 href="https://www.beholdbohol.com/"
                 name="Behold Bohol"
-                description="Tourism App"
+                description="Tourism Web & Mobile App"
               />
 
               <Work
                 href="https://www.cttp.org.ph/"
                 name="CTTP"
-                description="Church"
+                description="Church Web App"
               />
 
               <Work
                 href="https://www.navisyogroup.com/"
                 name="Navisyo"
-                description="Boat Rental"
+                description="Boat Rental Web App"
               />
 
               <Work
                 href="https://www.theoctopusclub.com/"
                 name="The Octopus Club"
-                description="E-Commerce"
+                description="E-Commerce Web App"
               />
 
               <Work
                 href="https://darnaexpress.com/"
                 name="Darna Express"
-                description="Package Management & Tracking"
+                description="Package MIS & Tracking Web App"
               />
 
               <Work
                 href="https://visualdreaming.com.au/"
                 name="Visual Dreaming"
-                description="Wellness App"
+                description="Wellbeing Mobile App"
               />
 
               <Work
                 href="https://play.google.com/store/apps/details?id=net.conceptmobile.storm&hl=en"
                 name="Storm App"
-                description="Weather App"
+                description="Weather Mobile App"
               />
 
               <Work
                 href="https://nexus-odm.com/"
                 name="Nexus ODM"
-                description="Influencer App"
+                description="Influencer Web App"
               />
             </div>
           </div>
