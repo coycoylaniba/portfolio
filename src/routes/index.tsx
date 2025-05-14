@@ -85,7 +85,7 @@ function RouteComponent() {
             <span className="text-center">---</span>
 
             <div className="flex flex-col gap-1">
-              <span className="text-center">Full Stack Developer</span>
+              <span className="text-center">Junior Developer</span>
               <span className="text-center font-bold">
                 Employee of a Senior Developer
               </span>
