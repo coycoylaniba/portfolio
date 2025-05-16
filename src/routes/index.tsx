@@ -149,7 +149,7 @@ function RouteComponent() {
         </Section>
 
         <Section className="" theme="dark">
-          <span>Projects_</span>
+          <span>Work_</span>
 
           <div className="flex flex-1 flex-col items-center justify-center gap-4">
             <div className="grid w-full max-w-3/4 grid-cols-2 gap-8 lg:max-w-1/2 sm:grid-cols-4">
