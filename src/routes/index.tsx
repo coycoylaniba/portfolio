@@ -109,7 +109,7 @@ function RouteComponent() {
         </Section>
 
         <Section className="">
-          <span>Skills_</span>
+          <span>Skill_</span>
 
           <div className="flex flex-1 flex-col items-center justify-center gap-4">
             <div className="grid grid-cols-4 gap-8 lg:max-w-1/2">
@@ -152,7 +152,7 @@ function RouteComponent() {
           <span>Work_</span>
 
           <div className="flex flex-1 flex-col items-center justify-center gap-4">
-            <div className="grid w-full max-w-3/4 grid-cols-2 gap-8 lg:max-w-1/2 sm:grid-cols-4">
+            <div className="grid w-full max-w-3/4 grid-cols-2 gap-8 sm:grid-cols-4 lg:max-w-1/2">
               <Work
                 href="https://www.beholdbohol.com/"
                 name="Behold Bohol"
@@ -236,6 +236,18 @@ function RouteComponent() {
                 target="_blank"
               >
                 linkedin
+              </a>
+            </div>
+          </div>
+        </Section>
+
+        <Section className="" theme="dark">
+          <span>File_</span>
+
+          <div className="flex flex-1 flex-col items-center justify-center gap-4">
+            <div className="flex items-center gap-2">
+              <a href="/jonathan-jeshua-laniba-resume-2025.docx" download>
+                download resume
               </a>
             </div>
           </div>
