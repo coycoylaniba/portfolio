@@ -38,7 +38,7 @@ function RouteComponent() {
 
           <div className="flex flex-1 flex-col items-center justify-center gap-4">
             <span className="text-center lg:max-w-1/2">
-              I'm a full stack developer who is passionate in writing efficient,
+              I'm a full stack developer who is passionate in producing efficient,
               scalable and maintainable web, desktop and mobile applications. I
               primarily use Next.js for web, Electron + React for desktop
               applications, and React Native for mobile applications.
