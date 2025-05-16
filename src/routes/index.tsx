@@ -152,7 +152,7 @@ function RouteComponent() {
           <span>Projects_</span>
 
           <div className="flex flex-1 flex-col items-center justify-center gap-4">
-            <div className="grid w-full max-w-3/4 grid-cols-2 gap-8 lg:max-w-1/2 lg:grid-cols-4">
+            <div className="grid w-full max-w-3/4 grid-cols-2 gap-8 lg:max-w-1/2 sm:grid-cols-4">
               <Work
                 href="https://www.beholdbohol.com/"
                 name="Behold Bohol"

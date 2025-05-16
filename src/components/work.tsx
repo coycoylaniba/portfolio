@@ -37,10 +37,10 @@ function Work({ className, name, description, href, theme }: WorkProps) {
         isLink && "cursor-pointer",
       )}
     >
-      <div className="relative hidden w-full flex-col items-center justify-center gap-2 p-4 group-hover:flex">
+      <div className="relative flex w-full flex-col items-center justify-center gap-2 p-2 lg:hidden lg:p-4 lg:group-hover:flex">
         <span className="text-center text-xs">{name}</span>
 
-        <span className="absolute top-3/4 text-center text-[10px] opacity-70">
+        <span className="absolute top-3/4 hidden max-w-[calc(100%-theme(spacing.8))] text-center text-[10px] opacity-70 lg:inline-block">
           {description}
         </span>
       </div>
