@@ -246,7 +246,7 @@ function RouteComponent() {
 
           <div className="flex flex-1 flex-col items-center justify-center gap-4">
             <div className="flex items-center gap-2">
-              <a href="/jonathan-jeshua-laniba-resume-2025.docx" download>
+              <a href="/resume.pdf" download>
                 download resume
               </a>
             </div>
